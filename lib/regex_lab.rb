@@ -1,5 +1,5 @@
 def starts_with_a_vowel?(word)
-  .match(\/aeiou/)
+  "afoot Excellent incredible Absolute unreal Inconceivable octopus".match(\/aeiou/)
 
 end
 
